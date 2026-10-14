@@ -80,6 +80,3 @@ The notebook is written for Google Colab but runs anywhere with Python 3.
 
 Python, librosa, scikit-learn, pandas, NumPy, Matplotlib, Seaborn
 
-## Author
-
-Jagadabhi Sharath Kumar
